@@ -11,7 +11,7 @@ public class PageController {
     /**
      * 返回首页
      */
-    @RequestMapping("/")
+    @RequestMapping("/index2")
     public String showIndex(){
         return "index";
     }
