@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>viewworld-parent</artifactId>
+        <groupId>com.viewworld</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../viewworld-parent/pom.xml</relativePath>
+    </parent>
+    <groupId>com.viewworld</groupId>
+    <artifactId>viewworld-manager</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.viewworld</groupId>
+            <artifactId>viewworld-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+    <modules>
+        <module>../viewworld-manager-pojo</module>
+        <module>../viewworld-manager-mapper</module>
+        <module>../viewworld-manager-service</module>
+        <module>../viewworld-manager-web</module>
+    </modules>
+
+</project>

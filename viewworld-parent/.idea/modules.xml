@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-common/viewworld-common.iml" filepath="$PROJECT_DIR$/../viewworld-common/viewworld-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-manager/viewworld-manager.iml" filepath="$PROJECT_DIR$/../viewworld-manager/viewworld-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-manager-mapper/viewworld-manager-mapper.iml" filepath="$PROJECT_DIR$/../viewworld-manager-mapper/viewworld-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-manager-pojo/viewworld-manager-pojo.iml" filepath="$PROJECT_DIR$/../viewworld-manager-pojo/viewworld-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-manager-service/viewworld-manager-service.iml" filepath="$PROJECT_DIR$/../viewworld-manager-service/viewworld-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewworld-manager-web/viewworld-manager-web.iml" filepath="$PROJECT_DIR$/../viewworld-manager-web/viewworld-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewworld-parent.iml" filepath="$PROJECT_DIR$/viewworld-parent.iml" />
+    </modules>
+  </component>
+</project>

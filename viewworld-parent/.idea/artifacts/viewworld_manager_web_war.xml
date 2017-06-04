@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="viewworld-manager-web:war">
+    <output-path>$PROJECT_DIR$/../viewworld-manager-web/target</output-path>
+    <root id="archive" name="viewworld-manager-web.war">
+      <element id="artifact" artifact-name="viewworld-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
